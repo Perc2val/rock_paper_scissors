@@ -1,0 +1,23 @@
+*{
+    /* border: solid 1px black; */
+}
+
+body{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    padding: 20px;
+}
+
+.resultScore {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 22px;
+}
